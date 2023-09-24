@@ -9,6 +9,9 @@
 ## Front (Dir web):
 
 - [ViteJS](https://vitejs.dev/)
+- [shadcn/ui](https://ui.shadcn.com/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [RadixUI](https://www.radix-ui.com/)
 
 ## Install and run
 
