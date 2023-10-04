@@ -14,7 +14,15 @@
 - [RadixUI](https://www.radix-ui.com/)
 - [Lucide](https://lucide.dev/)
 
-## Install and run
+## Back (Dir api):
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [Fastify](https://fastify.io/)
+- [Prisma](https://www.prisma.io/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [@fastify/multipart](https://github.com/fastify/fastify-multipart)
+
+## Install and run 
 
  - cd web
  - npm install
