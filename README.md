@@ -21,6 +21,7 @@
 - [Prisma](https://www.prisma.io/)
 - [SQLite](https://www.sqlite.org/index.html)
 - [@fastify/multipart](https://github.com/fastify/fastify-multipart)
+- [zod](https://github.com/colinhacks/zod#installation)
 
 
 ## Install and run 
