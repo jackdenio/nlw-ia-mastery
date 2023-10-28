@@ -1,5 +1,7 @@
 <h1 align="center"> NLW IA - Trilha Mastery</h1>
 
+:construction_worker:
+
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
@@ -23,6 +25,7 @@
 - [@fastify/multipart](https://github.com/fastify/fastify-multipart)
 - [zod](https://github.com/colinhacks/zod#installation)
 - [OpenAI](https://openai.com/)
+- [dotenv](https://www.npmjs.com/package/dotenv) if your npm is < 20
 
 ## Install and run front
 
