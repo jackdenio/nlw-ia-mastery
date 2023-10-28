@@ -22,14 +22,15 @@
 - [SQLite](https://www.sqlite.org/index.html)
 - [@fastify/multipart](https://github.com/fastify/fastify-multipart)
 - [zod](https://github.com/colinhacks/zod#installation)
+- [OpenAI](https://openai.com/)
 
-
-## Install and run 
+## Install and run front
 
  - cd web
  - npm install
  - npm run dev
 
+ 
 <!-- 
 - [NodeJS](https://nodejs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
